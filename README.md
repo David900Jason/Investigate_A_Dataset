@@ -1,5 +1,5 @@
 # Investigate A Dataset
-This is a project related to <b>DECI Y2 L3 Data Analysis & AI"</b>
+This is a project related to <b>DECI Y2 L3 Data Analysis & AI</b>
 
 I was asked to choose from two datasets on Kaggle:
 * [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer)
